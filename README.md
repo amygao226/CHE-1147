@@ -21,7 +21,7 @@ Expect a mix of:
 ## 🗂 Repo Map
 Here’s where to find stuff:
 <!-- - `syllabus/` → syllabus & policies   -->
-<!-- - `lectures/` → lecture slides + demo notebooks   -->
+- `lectures/` → lecture slides + demo notebooks  
 - `tutorials/` → in-class hands-on exercises  
 <!-- - `assignments/` → homework with starter code   -->
 <!-- - `projects/` → group project guidelines & rubrics   -->
@@ -36,4 +36,4 @@ We’ll use Python 🐍 and Jupyter Notebooks.
 
 ```bash
 conda env create -f environment.yml
-conda activate che1147 --> -->
+conda activate che1147 --> 
