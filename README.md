@@ -33,7 +33,7 @@ Here’s where to find stuff:
 
 | Tutorial | Colab Link |
 |----------|------------|
-| 1. Python Refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<org-name>/CHE1147-Chemical-Data-Science/blob/main/tutorials/tutorial01_python_refresher.ipynb) |
+| 1. Python Refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_01_python_refresher.ipynb) |
 
 
 <!-- ---
