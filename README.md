@@ -28,6 +28,14 @@ Here’s where to find stuff:
 <!-- - `data/` → small sample datasets or scripts to fetch them   -->
 - `resources/` → cheat sheets, papers, links  
 
+
+## 📚 Tutorials
+
+| Tutorial | Colab Link |
+|----------|------------|
+| 1. Python Refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<org-name>/CHE1147-Chemical-Data-Science/blob/main/tutorials/tutorial01_python_refresher.ipynb) |
+
+
 <!-- ---
 
 ## ⚙️ Setup
