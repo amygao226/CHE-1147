@@ -31,7 +31,7 @@ Here’s where to find stuff:
 
 ## 👨‍🏫 Lectures
 
- **Lecture 1 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/111YeW6a_pOGGlDclQf9Y6icHKTzszC-cKIZvfnUfHjE/edit?usp=sharing)
+- **Lecture 1 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/111YeW6a_pOGGlDclQf9Y6icHKTzszC-cKIZvfnUfHjE/edit?usp=sharing)
 
 
 
