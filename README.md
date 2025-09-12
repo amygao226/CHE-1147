@@ -21,12 +21,18 @@ Expect a mix of:
 ## 🗂 Repo Map
 Here’s where to find stuff:
 <!-- - `syllabus/` → syllabus & policies   -->
-- `lectures/` → lecture slides + demo notebooks  
+- `lectures/` → demo notebooks  
 - `tutorials/` → in-class hands-on exercises  
 <!-- - `assignments/` → homework with starter code   -->
 <!-- - `projects/` → group project guidelines & rubrics   -->
 <!-- - `data/` → small sample datasets or scripts to fetch them   -->
 <!-- - `resources/` → cheat sheets, papers, links   -->
+
+
+## 👨‍🏫 Lectures
+
+ **Lecture 1 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/111YeW6a_pOGGlDclQf9Y6icHKTzszC-cKIZvfnUfHjE/edit?usp=sharing)
+
 
 
 ## 📚 Tutorials
