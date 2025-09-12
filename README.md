@@ -1,4 +1,4 @@
-# 🧪 CHE1147: Chemical Data Science and Engineering  
+# 🫎 CHE1147: Chemical Data Science and Engineering 
 **Fall 2025 · University of Toronto**
 
 <!-- Welcome to the GitHub home of **CHE1147**! 🎉  
@@ -26,7 +26,7 @@ Here’s where to find stuff:
 <!-- - `assignments/` → homework with starter code   -->
 <!-- - `projects/` → group project guidelines & rubrics   -->
 <!-- - `data/` → small sample datasets or scripts to fetch them   -->
-- `resources/` → cheat sheets, papers, links  
+<!-- - `resources/` → cheat sheets, papers, links   -->
 
 
 ## 📚 Tutorials
