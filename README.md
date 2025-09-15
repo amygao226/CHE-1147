@@ -1,19 +1,18 @@
 # 🫎 CHE1147: Chemical Data Science and Engineering 
 **Fall 2025 · University of Toronto**
 
-<!-- Welcome to the GitHub home of **CHE1147**! 🎉  
-This is where lectures, tutorials, assignments, and project guidelines will live.  
-Think of it as our course **command center** 🛰️. -->
+Our course combines {Data + Chemistry + Engineering}. It is the foundation for CHE1148.  
+We’ll explore how **machine learning and data science** can solve real chemical engineering problems with a mix of:
+- Hands-on coding 👩‍💻
+- Real chemical datasets 📊
+- Group projects with creativity & impact 💡
+
+This repo is where lectures, tutorials, assignments, and project guidelines will live for our course. 
 
 <!-- ---
 
 ## 📚 What’s this course about?
-Data + Chemistry + Engineering = 🚀  
-We’ll explore how **machine learning and data science** can solve real chemical engineering problems.  
-Expect a mix of:
-- Hands-on coding 👩‍💻
-- Real chemical datasets 📊
-- Group projects with creativity & impact 💡
+
 - Occasional “why is this hard?” discussions 🤔 -->
 
 ---
@@ -38,6 +37,20 @@ Here’s where to find stuff:
 |----------|------------|
 | 1. Python Refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_01_python_refresher.ipynb) |
 | 2. Linear Algebra | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_02_linear_algebra.ipynb) |
+
+
+
+The content, examples, and ideas are inspired from many other open courses which we will reference.
+
+
+## Contributions
+
+This course is being created by the AI4ChemS team and TAs:
+
+- Lya
+- Thomas Pryuns
+- Mahyar Rajabi Kochi
+- Sartaaj Khan
 
 
 <!-- ---
