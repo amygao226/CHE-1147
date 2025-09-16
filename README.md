@@ -1,13 +1,14 @@
 # 🫎 CHE1147: Chemical Data Science and Engineering 
 **Fall 2025 · University of Toronto**
 
-Our course combines {Data + Chemistry + Engineering}. It is the foundation for CHE1148.  
-We’ll explore how **machine learning and data science** can solve real chemical engineering problems with a mix of:
-- Hands-on coding 👩‍💻
-- Real chemical datasets 📊
-- Group projects with creativity & impact 💡
+Our course combines {Data + Chemistry + Engineering}. We’ll explore how **machine learning and data science** can solve real chemical engineering problems with a mix of:
+- Lectures with chemical examples and datasets 📊
+- Hands-on sessions 👩‍💻
+- Group projects 💡
 
 This repo is where lectures, tutorials, assignments, and project guidelines will live for our course. 
+
+This course is the foundation for CHE1148.  
 
 <!-- ---
 
@@ -45,12 +46,12 @@ The content, examples, and ideas are inspired from many other open courses which
 
 ## Contributions
 
-This course is being created by the AI4ChemS team and TAs:
+This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team and TAs:
 
-- Lya
-- Thomas Pryuns
-- Mahyar Rajabi Kochi
-- Sartaaj Khan
+- [Lya Chiñas](https://github.com/lyachinas)
+- [Thomas Pruyns](https://github.com/iamthomaspruyn)
+- [Mahyar Rajabi Kochi](https://github.com/Mahyar-rajabi94)
+- [Sartaaj Khan](https://github.com/sartaajkhan)
 
 
 <!-- ---
